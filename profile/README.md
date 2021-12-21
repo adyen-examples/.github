@@ -1,6 +1,6 @@
 ## 👋 Searching for example applications to integrate with [Adyen](https://www.adyen.com/)? Search no longer! 👋
 
-![The Adyen Logo](https://github.com/adyen-examples/.github/raw/main/images/logo.png)
+![The Adyen Logo](https://github.com/adyen-examples/.github/raw/main/images/logo.png?s=100)
 
 This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main **[Adyen GitHub page](https://github.com/adyen)**.
 
@@ -44,10 +44,10 @@ This organization contains all example integrations for our various libraries an
     - [React](https://github.com/adyen-examples/adyen-react-online-payments)
     <!-- - [React native-based](https://github.com/adyen-examples/adyen-react-native-online-payments) -->
 
-* Others 
+<!-- * Others 
     - [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments)
     - [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments)
     - [.Net](https://github.com/adyen-examples/adyen-dotnet-online-payments)
     - [Python](https://github.com/adyen-examples/adyen-python-online-payments)
     - [Golang](https://github.com/adyen-examples/adyen-golang-online-payments)
-    - [Android](https://github.com/adyen-examples/adyen-android-online-payments) -->
+    - [Android](https://github.com/adyen-examples/adyen-android-online-payments) --> -->
