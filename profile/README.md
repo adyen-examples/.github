@@ -1,6 +1,8 @@
 ## 👋 Searching for example applications to integrate with [Adyen](https://www.adyen.com/)? Search no longer! 👋
 
-![The Adyen Logo](https://github.com/adyen-examples/.github/raw/main/images/logo.png)
+<!-- ![The Adyen Logo](https://github.com/adyen-examples/.github/raw/main/images/logo.png) -->
+
+<img src="https://github.com/adyen-examples/.github/raw/main/images/logo.png" height="100" alt="The Adyen logo">
 
 This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main **[Adyen GitHub page](https://github.com/adyen)**.
 
