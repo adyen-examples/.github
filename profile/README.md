@@ -26,10 +26,10 @@ This organization contains all example integrations for our various libraries an
 
 | JVM Based  | Javascript Based | Others | 
 | ------------- | ------------- | ------ |
-| [Java Spark Integration](https://github.com/adyen-examples/adyen-java-spark-online-payments)  | [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)  | [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments) |
-| [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)  | [Angular](https://github.com/adyen-examples/adyen-angular-online-payments)  | [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments) |
-| [Kotlin Spring Integration](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)  | [Vue.js](https://github.com/adyen-examples/adyen-vue-online-payments)  | [.Net](https://github.com/adyen-examples/adyen-dotnet-online-payments) |
-| [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example)  | [React](https://github.com/adyen-examples/adyen-react-online-payments) | [Python](https://github.com/adyen-examples/adyen-python-online-payments) |
+| [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)  | [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)  | [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments) |
+| [Kotlin Spring Integration](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)  | [Angular](https://github.com/adyen-examples/adyen-angular-online-payments)  | [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments) |
+| [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example)  | [Vue.js](https://github.com/adyen-examples/adyen-vue-online-payments)  | [.Net](https://github.com/adyen-examples/adyen-dotnet-online-payments) |
+|  | [React](https://github.com/adyen-examples/adyen-react-online-payments) | [Python](https://github.com/adyen-examples/adyen-python-online-payments) |
 |  |  | [Golang](https://github.com/adyen-examples/adyen-golang-online-payments) |
 |   |  | [Android](https://github.com/adyen-examples/adyen-android-online-payments) |
 
