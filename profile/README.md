@@ -24,9 +24,9 @@ This organization contains all example integrations for our various libraries an
 
 ## Here is a list of the examples we provide (for now!):
 
-| JVM Based  | Javascript Based | Others | 
-| ------------- | ------------- | ------ |
-| [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)  | [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)  | [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments) |
+| JVM Based  | Javascript Based | Others | E-commerce Platforms|
+| ------------- | ------------- | ------ | ------- |
+| [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)  | [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)  | [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments) | [Magento](https://github.com/adyen-examples/adyen-magento-plugin) |
 | [Kotlin Spring Integration](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)  | [Angular](https://github.com/adyen-examples/adyen-angular-online-payments)  | [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments) |
 | [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example)  | [Vue.js](https://github.com/adyen-examples/adyen-vue-online-payments)  | [.Net](https://github.com/adyen-examples/adyen-dotnet-online-payments) |
 |  | [React](https://github.com/adyen-examples/adyen-react-online-payments) | [Python](https://github.com/adyen-examples/adyen-python-online-payments) |
