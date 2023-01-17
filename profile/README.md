@@ -39,6 +39,7 @@ This organization contains all example integrations for our various libraries an
 ### Community / Alpha
 
 * [Pay by Link Ktor sample](https://github.com/jlengrand/pay-by-link-sample-kotlin)
+* [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
 * [Interactive Drop-in creation and styling tool](https://github.com/adyen-examples/checkoutCreate/) (Alpha)
 * [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) (Archived)
 
