@@ -59,7 +59,7 @@ This organization contains all example integrations for our various libraries an
 <!-- * Others 
     - [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments)
     - [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments)
-    - [.Net](https://github.com/adyen-examples/adyen-dotnet-online-payments)
+    - [.NET](https://github.com/adyen-examples/adyen-dotnet-online-payments)
     - [Python](https://github.com/adyen-examples/adyen-python-online-payments)
     - [Golang](https://github.com/adyen-examples/adyen-golang-online-payments)
     - [Android](https://github.com/adyen-examples/adyen-android-online-payments) -->
