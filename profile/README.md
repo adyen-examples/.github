@@ -12,8 +12,7 @@ This organization contains all example integrations for our various libraries an
 * 🐦 [Our Developer Twitter account](https://twitter.com/AdyenDevs)
 * ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen)
 * 📰 [Our developer newsletter](https://www.adyen.com/newsletter/developers)
-* 📺 [Checkout our Tech playlist on Youtube](https://www.youtube.com/watch?v=VPpTgsJbIhc&list=PL6agz7H5yEoaS-bF2gIwRwe_ApzqmW_QX)
-
+* 🎥 [Adyen Developers channel on Youtube](https://www.youtube.com/@adyendevs)
 ## 📜 Our documentation pages : 
 
 * [Adyen Technical documentation](https://docs.adyen.com/)
