@@ -6,59 +6,55 @@
 
 This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main **[Adyen GitHub page](https://github.com/adyen)**.
 
-## 👩‍💻 Useful resources: 
+## 👩‍💻 Resources
 
-* 📝 [Our technical blog](https://dev.to/adyen)
-* 🐦 [Our Developer Twitter account](https://twitter.com/AdyenDevs)
-* ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen)
-* 📰 [Our developer newsletter](https://www.adyen.com/newsletter/developers)
-* 🎥 [Adyen Developers channel on Youtube](https://www.youtube.com/@adyendevs)
-## 📜 Our documentation pages : 
+* 📝 [Our technical blogs](https://adyen.medium.com/)
+* 🐦 [Our Developer Twitter Account](https://twitter.com/AdyenDevs)
+* ❓ [Ask a question on StackOverflow](https://stackoverflow.com/questions/tagged/adyen)
+* 📰 [Our Developers Newsletter](https://www.adyen.com/newsletter/developers)
+* 🎥 [Our Developers Channel on Youtube](https://www.youtube.com/@adyendevs)
 
-* [Adyen Technical documentation](https://docs.adyen.com/)
+## 📜 Documentation
+* [Adyen Technical Documentation](https://docs.adyen.com/)
 * [Adyen API Explorer](https://docs.adyen.com/api-explorer/)
 * [Adyen Test Cards](https://docs.adyen.com/development-resources/test-cards/test-card-numbers/)
 
-**🌈 Contributions are most welcome so feel free to reach out, post issues and / or propose improvements🦄**
+**🌈 Contributions are alwaus welcome so feel free to reach out, post issues or propose improvements.**
 
-## Here is a list of the examples we provide (for now!):
+## Official Integration Examples using our libraries/plugins
 
-### Official
+|                              | [![Java (Spring)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg)](https://github.com/adyen-examples/adyen-java-spring-online-payments) | [![.NET](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg)](https://github.com/adyen-examples/adyen-dotnet-online-payments) | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg)](https://github.com/adyen-examples/adyen-node-online-payments) | [![Kotlin Spring](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg)](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments) | [![PHP (Laravel)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg)](https://github.com/adyen-examples/adyen-php-online-payments) | [![Python](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg)](https://github.com/adyen-examples/adyen-python-online-payments) | [![Go](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg)](https://github.com/adyen-examples/adyen-golang-online-payments) | [![Vue.js](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg)](https://github.com/adyen-examples/adyen-vue-online-payments) | [![React](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg)](https://github.com/adyen-examples/adyen-react-online-payments) | [![Angular](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg)](https://github.com/adyen-examples/adyen-angular-online-payments) | [![Ruby (Rails)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain.svg)](https://github.com/adyen-examples/adyen-rails-online-payments) |
+|-----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|          **Online Payments** |                                                      [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/checkout-example)                                                       |                         [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/checkout-example)                         |                                                     [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/checkout-example)                                                      |                                                                      [Link](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)                                                                      |                                                                 [Link](https://github.com/adyen-examples/adyen-php-online-payments)                                                                  |                                                                  [Link](https://github.com/adyen-examples/adyen-python-online-payments)                                                                   |                                                                 [Link](https://github.com/adyen-examples/adyen-golang-online-payments)                                                                 |                                                                 [Link](https://github.com/adyen-examples/adyen-vue-online-payments)                                                                  |                                                                 [Link](https://github.com/adyen-examples/adyen-react-online-payments)                                                                 |                                                                      [Link](https://github.com/adyen-examples/adyen-angular-online-payments)                                                                      |                                                                   [Link](https://github.com/adyen-examples/adyen-rails-online-payments)                                                                   | 
+| **Advanced Online Payments** |                                                  [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/checkout-example-advanced)                                                  |                    [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/checkout-example-advanced)                     |                                                 [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/checkout-example-advanced)                                                 | 
+|       **Recurring Payments** |                                                    [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/subscription-example)                                                     |                       [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/subscription-example)                       |                                                   [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/subscription-example)                                                    | 
+|               **Gift Cards** |                                                      [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/giftcard-example)                                                       |                         [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/giftcard-example)                         |                                                     [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/giftcard-example)                                                      |
+|              **Pay By Link** |                                                      [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/paybylink-example)                                                      |                        [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/paybylink-example)                         |                                                     [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/paybylink-example)                                                     |
 
 
-| JVM Based  | Javascript Based | Others | E-commerce Platforms|
-| ------------- | ------------- | ------ | ------- |
-| [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)  | [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)  | [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments) | [Magento 2](https://github.com/adyen-examples/adyen-magento-plugin-demo) |
-| [Kotlin Spring Integration](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)  | [Angular](https://github.com/adyen-examples/adyen-angular-online-payments)  | [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments) | [Shopware 6](https://github.com/adyen-examples/adyen-shopware-plugin-demo)
-| [Android](https://github.com/adyen-examples/adyen-android-online-payments) | [Vue.js](https://github.com/adyen-examples/adyen-vue-online-payments)  | [.NET](https://github.com/adyen-examples/adyen-dotnet-online-payments) |
-|  | [React](https://github.com/adyen-examples/adyen-react-online-payments) | [Python](https://github.com/adyen-examples/adyen-python-online-payments) |
-|  |  | [Golang](https://github.com/adyen-examples/adyen-golang-online-payments) |
-|   |  |  |
+| Plugins                                                                    | 
+|:---------------------------------------------------------------------------| 
+| [Magento 2](https://github.com/adyen-examples/adyen-magento-plugin-demo)   |
+| [Shopware 6](https://github.com/adyen-examples/adyen-shopware-plugin-demo) |
 
-### Community / Alpha
+| Mobile                                                                     |
+|:---------------------------------------------------------------------------|
+| [Android](https://github.com/adyen-examples/adyen-android-online-payments) |
+
+
+| Tools | Stage |
+| ----- | ----- |
+| [Interactive Drop-in creation and styling tool](https://github.com/adyen-examples/checkoutCreate/) | Alpha |
+
+
+## Other Integration Examples
 
 * [Pay by Link Ktor sample](https://github.com/jlengrand/pay-by-link-sample-kotlin)
 * [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
 * [Interactive Drop-in creation and styling tool](https://github.com/adyen-examples/checkoutCreate/) (Alpha)
 * [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) (Archived)
-
+* []
 
 <!-- * JVM based
     - [Java Spark Integration](https://github.com/adyen-examples/adyen-java-spark-online-payments)
-    - [Java Spring Integration](https://github.com/adyen-examples/adyen-java-spring-online-payments)
-    - [Kotlin Spring Integration](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments)
-    - [Complete React and JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example)
-* Javascript based
-    - [Node.js](https://github.com/adyen-examples/adyen-node-online-payments)
-    - [Angular](https://github.com/adyen-examples/adyen-angular-online-payments)
-    - [Vue.js](https://github.com/adyen-examples/adyen-vue-online-payments)
-    - [React](https://github.com/adyen-examples/adyen-react-online-payments)
-    <!-- - [React native-based](https://github.com/adyen-examples/adyen-react-native-online-payments) -->
-
-<!-- * Others 
-    - [Ruby on Rails](https://github.com/adyen-examples/adyen-rails-online-payments)
-    - [PHP Laravel](https://github.com/adyen-examples/adyen-php-online-payments)
-    - [.NET](https://github.com/adyen-examples/adyen-dotnet-online-payments)
-    - [Python](https://github.com/adyen-examples/adyen-python-online-payments)
-    - [Golang](https://github.com/adyen-examples/adyen-golang-online-payments)
-    - [Android](https://github.com/adyen-examples/adyen-android-online-payments) -->
+-->
