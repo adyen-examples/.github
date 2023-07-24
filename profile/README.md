@@ -7,21 +7,22 @@
 This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main **[Adyen GitHub page](https://github.com/adyen)**.
 
 ## 👩‍💻 Resources
-
 * 📝 [Our technical blogs](https://adyen.medium.com/)
 * 🐦 [Our Developer Twitter Account](https://twitter.com/AdyenDevs)
 * ❓ [Ask a question on StackOverflow](https://stackoverflow.com/questions/tagged/adyen)
 * 📰 [Our Developers Newsletter](https://www.adyen.com/newsletter/developers)
 * 🎥 [Our Developers Channel on Youtube](https://www.youtube.com/@adyendevs)
+* 💚 [developers.adyen.com](https://developers.adyen.com)
 
 ## 📜 Documentation
 * [Adyen Technical Documentation](https://docs.adyen.com/)
 * [Adyen API Explorer](https://docs.adyen.com/api-explorer/)
 * [Adyen Test Cards](https://docs.adyen.com/development-resources/test-cards/test-card-numbers/)
 
+
 **🌈 Contributions are alwaus welcome so feel free to reach out, post issues or propose improvements.**
 
-## Official Integration Examples using our libraries/plugins
+## Official Integration Examples
 
 |                              | [![Java (Spring)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg)](https://github.com/adyen-examples/adyen-java-spring-online-payments) | [![.NET](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg)](https://github.com/adyen-examples/adyen-dotnet-online-payments) | [![Node.js](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg)](https://github.com/adyen-examples/adyen-node-online-payments) | [![Kotlin Spring](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg)](https://github.com/adyen-examples/adyen-kotlin-spring-online-payments) | [![PHP (Laravel)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg)](https://github.com/adyen-examples/adyen-php-online-payments) | [![Python](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg)](https://github.com/adyen-examples/adyen-python-online-payments) | [![Go](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg)](https://github.com/adyen-examples/adyen-golang-online-payments) | [![Vue.js](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg)](https://github.com/adyen-examples/adyen-vue-online-payments) | [![React](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg)](https://github.com/adyen-examples/adyen-react-online-payments) | [![Angular](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg)](https://github.com/adyen-examples/adyen-angular-online-payments) | [![Ruby (Rails)](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-plain.svg)](https://github.com/adyen-examples/adyen-rails-online-payments) |
 |-----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -36,6 +37,7 @@ This organization contains all example integrations for our various libraries an
 |:---------------------------------------------------------------------------| 
 | [Magento 2](https://github.com/adyen-examples/adyen-magento-plugin-demo)   |
 | [Shopware 6](https://github.com/adyen-examples/adyen-shopware-plugin-demo) |
+
 
 | Mobile                                                                     |
 |:---------------------------------------------------------------------------|
@@ -53,8 +55,3 @@ This organization contains all example integrations for our various libraries an
 * [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
 * [Interactive Drop-in creation and styling tool](https://github.com/adyen-examples/checkoutCreate/) (Alpha)
 * [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) (Archived)
-* []
-
-<!-- * JVM based
-    - [Java Spark Integration](https://github.com/adyen-examples/adyen-java-spark-online-payments)
--->
