@@ -34,13 +34,13 @@ This organization contains all **example integrations** for our various librarie
 | **Headless Integration** |                                                                            [Link](https://github.com/adyen-examples/magento-headless-demo)                                                                            |                                                                                                                                                                                                                             | 
 
 ### Mobile
-**Supported samples:** React Native, Android & iOS. You can find additional support (3DS2, networking libraries or helper functions) [here](https://github.com/adyen#supplementary).
+**Supported samples:** React Native, Android & iOS.
 
-|                                                                               Mobile | Description                                 | 
-|-------------------------------------------------------------------------------------:|:--------------------------------------------|
-| [**React Native**](https://github.com/Adyen/adyen-react-native/tree/develop/example) | A checkout experience demo in React Native. |
-|       [**Android**](https://github.com/adyen-examples/adyen-android-online-payments) | Accept in-app payments in Android.          |
-|                      [**iOS**](https://github.com/Adyen/adyen-ios/tree/develop/Demo) | Accept in-app payments in iOS.              |      
+|                      | [![React Native](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg)](https://github.com/Adyen/adyen-react-native) React Native |  [![Android](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain.svg)](https://github.com/Adyen/adyen-android) Android   | [![iOS](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apple/apple-original.svg)](https://github.com/Adyen/adyen-ios) iOS |
+|---------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  **Online Payments** |                                                                [Link](https://github.com/Adyen/adyen-react-native/tree/develop/example)                                                                 |                                               [Link](https://github.com/adyen-examples/adyen-android-online-payments)                                                                        |                                                         [Link](https://github.com/Adyen/adyen-ios/tree/develop/Demo)                                                         |  
+|     **3DS2 Wrapper** |                                                                                                                                                                                                         |                                                                     [Link](https://github.com/Adyen/adyen-3ds2-android)                                                                      |                                                               [Link](https://github.com/Adyen/adyen-3ds2-ios)                                                                | 
+
 
 ### Tools
 A list of tools that help developers integrate faster.
@@ -52,7 +52,7 @@ A list of tools that help developers integrate faster.
 ### Community samples
 * [Pay by Link Ktor Sample](https://github.com/jlengrand/pay-by-link-sample-kotlin)
 * [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
-* [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) `(Archived)`
+* [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) `Archived`
 
 🌈 **Contributions are always welcome so feel free to reach out, post issues or propose improvements.**
 
