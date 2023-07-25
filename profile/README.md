@@ -54,7 +54,7 @@ A list of tools that help developers integrate faster.
 * [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
 * [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) `Archived`
 
-🌈 **[Contributions](../CONTRIBUTING.md) are always welcome so feel free to reach out, post issues or propose improvements.**
+🌈 **Contributions are always welcome so feel free to reach out, post issues or propose improvements.**
 
 
 ## 📖 Useful Developer Resources
