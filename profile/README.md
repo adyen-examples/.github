@@ -8,6 +8,7 @@ This organization contains all example integrations for our various libraries an
 
 ## 👩‍💻 Useful resources: 
 
+* 💻 [All developer resources in one place](https://developers.adyen.com/)
 * 📝 [Our technical blog](https://dev.to/adyen)
 * 🐦 [Our Developer Twitter account](https://twitter.com/AdyenDevs)
 * ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen)
