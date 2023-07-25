@@ -12,7 +12,7 @@ This organization contains all **example integrations** for our various librarie
 * [**Adyen API Explorer**](https://docs.adyen.com/api-explorer/)
 * [**Adyen Test Cards**](https://docs.adyen.com/development-resources/test-cards/test-card-numbers/)
 
-## Official Integration Examples
+## ⚙ Official Integration Examples
 **Explore every Adyen endpoint** using our [**Postman collections**](https://www.postman.com/adyendev/workspace/adyen-apis/overview) or [**OpenApi specifications**](https://github.com/Adyen/adyen-openapi).
 
 **Supported samples:** Java (Spring), .NET, Node.js, Kotlin (Spring), PHP, Python, Go, Vue.js, React.js, Angular & Ruby (on Rails).
@@ -26,7 +26,7 @@ This organization contains all **example integrations** for our various librarie
 |              **Pay By Link** |                                                        [Link](https://github.com/adyen-examples/adyen-java-spring-online-payments/tree/main/paybylink-example)                                                         |                                                       [Link](https://github.com/adyen-examples/adyen-dotnet-online-payments/tree/main/paybylink-example)                                                       |                                                       [Link](https://github.com/adyen-examples/adyen-node-online-payments/tree/main/paybylink-example)                                                        |
 
 ### Plugins
-Magento 2 (Adobe Commerce Cloud) & Shopware 6.
+**Supported samples:** Magento 2 (Adobe Commerce Cloud)* & Shopware 6. Additional supported plugins can be found [here](https://github.com/adyen#plugins).
 
 |                          | [![Magento 2](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/magento/magento-original.svg)](https://github.com/adyen-examples/adyen-magento-plugin-demo) Magento 2 | [![Shopware 6](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/shopware/shopware-original.svg)](https://github.com/adyen-examples/adyen-shopware-plugin-demo)  Shopware 6 |
 |-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -34,6 +34,8 @@ Magento 2 (Adobe Commerce Cloud) & Shopware 6.
 | **Headless Integration** |                                                                            [Link](https://github.com/adyen-examples/magento-headless-demo)                                                                            |                                                                                                                                                                                                                             | 
 
 ### Mobile
+**Supported samples:** React Native, Android & iOS. You can find additional support (3DS2, networking libraries or helper functions) [here](https://github.com/adyen#supplementary).
+
 |                                                                               Mobile | Description                                 | 
 |-------------------------------------------------------------------------------------:|:--------------------------------------------|
 | [**React Native**](https://github.com/Adyen/adyen-react-native/tree/develop/example) | A checkout experience demo in React Native. |
@@ -41,6 +43,8 @@ Magento 2 (Adobe Commerce Cloud) & Shopware 6.
 |                      [**iOS**](https://github.com/Adyen/adyen-ios/tree/develop/Demo) | Accept in-app payments in iOS.              |      
 
 ### Tools
+A list of tools that help developers integrate faster.
+
 |                                                                     Tool | Description                                     |
 |-------------------------------------------------------------------------:|:------------------------------------------------|
 | [**Checkout Create**](https://github.com/adyen-examples/checkoutCreate/) | Interactive Drop-in creation and styling tool.  |
@@ -50,16 +54,15 @@ Magento 2 (Adobe Commerce Cloud) & Shopware 6.
 * [Deploy an Adyen Sample application on Fly.io using Docker](https://github.com/gcatanese/adyen-java-spring-online-payments-fly)
 * [Complete JHipster ecommerce demo](https://github.com/adyen-examples/adyen-java-react-ecommerce-example) `(Archived)`
 
-🌈 **Contributions are alwaus welcome so feel free to reach out, post issues or propose improvements.**
+🌈 **Contributions are always welcome so feel free to reach out, post issues or propose improvements.**
 
-___
 
-## Useful Developer Resources
+## 📖 Useful Developer Resources
 * 💚 [**Adyen Developer Website**](https://developers.adyen.com) - All developer resources in one page.
 * 📝 [**Technical Blogs**](https://adyen.medium.com/) - All technical blogs and guides.
 * 🎥 [**Youtube (@AdyenDevs)**](https://www.youtube.com/@adyendevs) - Video tutorials about different types of integration.
 * 📰 [**Developers Newsletter**](https://www.adyen.com/newsletter/developers) - A monthly developer newsletter that our team handcrafts with love.
 
-## Reach out to us
+### Reach out to us
 - 🐦 [**Twitter (@AdyenDevs)**](https://twitter.com/AdyenDevs) - Our Twitter for developers.
 - ❓ [**Ask a question on Stack Overflow**](https://stackoverflow.com/questions/tagged/adyen) - You ask, we answer.
