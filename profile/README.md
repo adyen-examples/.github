@@ -6,7 +6,6 @@
 
 This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main **[Adyen GitHub page](https://github.com/adyen)**.
 
-___
 
 ## 📜 Documentation
 * [Adyen Technical Documentation](https://docs.adyen.com/)
@@ -53,12 +52,12 @@ Explore every endpoint using the [Adyen Postman collections](https://www.postman
 
 ___
 
-### Useful Developer Resources
+## Useful Developer Resources
 * 💚 [developers.adyen.com](https://developers.adyen.com)
 * 📝 [Technical Blogs](https://adyen.medium.com/)
 * 🎥 [Youtube (@AdyenDevs)](https://www.youtube.com/@adyendevs)
-* 📰 [Our Developers Newsletter](https://www.adyen.com/newsletter/developers)
+* 📰 [Developers Newsletter](https://www.adyen.com/newsletter/developers)
 
 ## Reach out to us
 - 🐦 [Twitter (@AdyenDevs)](https://twitter.com/AdyenDevs)
-- ❓ [Ask a question on StackOverflow](https://stackoverflow.com/questions/tagged/adyen)
+- ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen)
