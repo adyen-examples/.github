@@ -4,7 +4,7 @@
 
 <img src="https://github.com/adyen-examples/.github/raw/main/images/logo.png" height="100" alt="The Adyen logo">
 
-This organization contains all example integrations for our various libraries and plug-ins. To find their source code, you can visit our main [**Adyen GitHub page**](https://github.com/adyen).
+This organization contains all **example integrations** for our various libraries and plugins. If you're looking for the libraries/plugins source code, visit our main [**Adyen GitHub page**](https://github.com/adyen).
 
 
 ## 📜 Documentation
@@ -13,7 +13,7 @@ This organization contains all example integrations for our various libraries an
 * [**Adyen Test Cards**](https://docs.adyen.com/development-resources/test-cards/test-card-numbers/)
 
 ## Official Integration Examples
-**Explore every Adyen endpoint** using our [**Postman collections**](https://www.postman.com/adyendev/workspace/adyen-apis/overview) or our [**OpenApi specifications**](https://github.com/Adyen/adyen-openapi).
+**Explore every Adyen endpoint** using our [**Postman collections**](https://www.postman.com/adyendev/workspace/adyen-apis/overview) or [**OpenApi specifications**](https://github.com/Adyen/adyen-openapi).
 
 **Supported samples:** Java (Spring), .NET, Node.js, Kotlin (Spring), PHP, Python, Go, Vue.js, React.js, Angular & Ruby (on Rails).
 
