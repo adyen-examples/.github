@@ -36,15 +36,14 @@ Magento 2 (Adobe Commerce Cloud) & Shopware 6.
 ### Mobile
 |                                                                               Mobile | Description                                 | 
 |-------------------------------------------------------------------------------------:|:--------------------------------------------|
-|     [React Native](https://github.com/Adyen/adyen-react-native/tree/develop/example) | A checkout experience demo in React Native. |
-|           [Android](https://github.com/adyen-examples/adyen-android-online-payments) | Accept in-app payments in Android.          |
-|                          [iOS](https://github.com/Adyen/adyen-ios/tree/develop/Demo) | Accept in-app payments in iOS.              |      
+| [**React Native**](https://github.com/Adyen/adyen-react-native/tree/develop/example) | A checkout experience demo in React Native. |
+|       [**Android**](https://github.com/adyen-examples/adyen-android-online-payments) | Accept in-app payments in Android.          |
+|                      [**iOS**](https://github.com/Adyen/adyen-ios/tree/develop/Demo) | Accept in-app payments in iOS.              |      
 
 ### Tools
-|                                                                 Tool | Description                                     |
-|---------------------------------------------------------------------:|:------------------------------------------------|
-| [Checkout Create](https://github.com/adyen-examples/checkoutCreate/) | Interactive Drop-in creation and styling tool.  |
-
+|                                                                     Tool | Description                                     |
+|-------------------------------------------------------------------------:|:------------------------------------------------|
+| [**Checkout Create**](https://github.com/adyen-examples/checkoutCreate/) | Interactive Drop-in creation and styling tool.  |
 
 ### Community samples
 * [Pay by Link Ktor Sample](https://github.com/jlengrand/pay-by-link-sample-kotlin)
@@ -56,11 +55,11 @@ Magento 2 (Adobe Commerce Cloud) & Shopware 6.
 ___
 
 ## Useful Developer Resources
-* 💚 [Adyen Developer Website](https://developers.adyen.com) - All developer resources in one page.
-* 📝 [Technical Blogs](https://adyen.medium.com/) - All technical blogs and guides in one place.
-* 🎥 [Youtube (@AdyenDevs)](https://www.youtube.com/@adyendevs) - Videos tutorials on integration-examples.
-* 📰 [Developers Newsletter](https://www.adyen.com/newsletter/developers) - A monthly developer newsletter that our team crafts with love.
+* 💚 [**Adyen Developer Website**](https://developers.adyen.com) - All developer resources in one page.
+* 📝 [**Technical Blogs**](https://adyen.medium.com/) - All technical blogs and guides.
+* 🎥 [**Youtube (@AdyenDevs)**](https://www.youtube.com/@adyendevs) - Video tutorials about different types of integration.
+* 📰 [**Developers Newsletter**](https://www.adyen.com/newsletter/developers) - A monthly developer newsletter that our team handcrafts with love.
 
 ## Reach out to us
-- 🐦 [Twitter (@AdyenDevs)](https://twitter.com/AdyenDevs) - Our Twitter for developers.
-- ❓ [Ask a question on Stack Overflow](https://stackoverflow.com/questions/tagged/adyen) - You ask, we answer.
+- 🐦 [**Twitter (@AdyenDevs)**](https://twitter.com/AdyenDevs) - Our Twitter for developers.
+- ❓ [**Ask a question on Stack Overflow**](https://stackoverflow.com/questions/tagged/adyen) - You ask, we answer.
