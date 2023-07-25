@@ -6,11 +6,11 @@
 
 This organization contains all **example integrations** for our various libraries and plugins. If you're looking for the libraries/plugins source code, visit our main [**Adyen GitHub page**](https://github.com/adyen).
 
-
 ## 📜 Documentation
 * [**Adyen Technical Documentation**](https://docs.adyen.com/)
 * [**Adyen API Explorer**](https://docs.adyen.com/api-explorer/)
 * [**Adyen Test Cards**](https://docs.adyen.com/development-resources/test-cards/test-card-numbers/)
+
 
 ## ⚙ Official Integration Examples
 **Explore every Adyen endpoint** using our [**Postman collections**](https://www.postman.com/adyendev/workspace/adyen-apis/overview) or [**OpenApi specifications**](https://github.com/Adyen/adyen-openapi).
