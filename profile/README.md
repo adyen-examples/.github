@@ -68,4 +68,4 @@ A list of tools that can help developers.
 
 ## 🎧 Reach out to us
 - 🐦 [**Twitter (@AdyenDevs)**](https://twitter.com/AdyenDevs) - Our Twitter for developers.
-- ❔ [**Ask a question on Stack Overflow**](https://stackoverflow.com/questions/tagged/adyen) - You ask, we answer.
+- ❓ [**Ask a question on Stack Overflow**](https://stackoverflow.com/questions/tagged/adyen) - You ask, we answer.
