@@ -4,6 +4,9 @@ The Adyen Postman flows provide a visual representation of the workflows you can
 be chained and how data can be passed between the various steps.
 
 
+![Postman flow](postman-flow.png)
+
+
 ## First time users
 
 Are you accessing the Adyen Postman flows for the first time? Checkout the steps required to setup the environment and everything else you need.
