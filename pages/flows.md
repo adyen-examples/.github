@@ -20,5 +20,5 @@ Are you accessing the Adyen Postman flows for the first time? Checkout the steps
 
 ## Update local flows 
 
-If you want to edit the local flow (forked above) you need to fork also the "Adyen Flows" collection.
+If you want to edit the local flow (forked above), for example changing the request payloads, you need to fork also the "Adyen Flows" collection.
 
