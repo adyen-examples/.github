@@ -3,6 +3,11 @@
 The Adyen Postman flows provide a visual representation of the workflows you can design with the Adyen APIs. A flow shows how API calls can
 be chained and how data can be passed between the various steps.
 
+Why using the Adyen Postman Flows?
+* understand API workflows behind the Adyen products and features
+* learn how data is passed between the API calls
+* run a workflow with your own API Key and configuration settings
+
 
 ![Postman flow](postman-flow.png)
 
