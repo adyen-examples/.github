@@ -64,9 +64,6 @@ In the Customer Area configure the webhook URL accordingly.
 If you use Visual Studio 17.4+, the webhook URL will be the generated URL (i.e. `https://xd1r2txt-5001.euw.devtunnels.ms`).
 
 
-> **Warning**: In a production environment, use the full fixed URL instead of the asterisk `*`!
-
-
 Read more about webhooks in our [documentation](https://docs.adyen.com/development-resources/webhooks/).
 
 
