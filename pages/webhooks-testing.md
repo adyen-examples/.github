@@ -10,7 +10,7 @@ This guide explains how to easily consume and test webhooks that the Adyen platf
 ## Prerequisites
 
 1. Add a [Standard webhook](https://docs.adyen.com/development-resources/webhooks/#set-up-webhooks-in-your-customer-area) in your Customer Area
-2. Ready your application that can receive the webhooks (or use one of our existing [example-integrations](https://github.com/adyen-examples#%EF%B8%8F-official-integration-examples))
+2. Implement the endpoint that can receive the webhooks (or use one of our existing [example-integrations](https://github.com/adyen-examples#%EF%B8%8F-official-integration-examples))
 
 ## Making your server reachable
 
