@@ -23,14 +23,12 @@ There are typically 3 options:
 
 ### Option 1: Cloud deployment
 If you deploy on your cloud provider (or your own public server) the webhook URL will be the URL of the server.
-* Add `https://*.{your-cloud-provider}.com` to your allowed origins in the Customer Area.
 ```
   https://{your-cloud-provider}/api/webhooks/notifications
 ```
 
 ### Option 2: Gitpod
 If you use [Gitpod](https://github.com/adyen-examples/.github/blob/main/pages/gitpod-get-started.md) the webhook URL will be the host assigned by Gitpod
-* Add `https://*.gitpod.io` to your allowed origins in the Customer Area.
 ```
   https://8080-myorg-myrepo-y8ad7pso0w5.ws-eu75.gitpod.io/api/webhooks/notifications
 ```
@@ -42,7 +40,6 @@ If you use [Gitpod](https://github.com/adyen-examples/.github/blob/main/pages/gi
 ### NGROK
 
 If you use a tunneling service like [ngrok](ngrok), the webhook URL will be the generated URL (ie `https://c991-80-113-16-28.ngrok.io`).
-* Add `https://*.ngrok.io` to your allowed origins in the Customer Area.
 
 ```bash
   $ ngrok http 8080
@@ -62,7 +59,6 @@ In the Customer Area configure the webhook URL accordingly.
 ### DEV TUNNELS (.NET)
 
 .NET developers might prefer to use Visual Studio dev tunnels to expose their localhost.
-* Add `https://*.devtunnels.ms` to your allowed origins
 * Create your public (temporary/persistent) dev tunnel by following [this guide](https://medium.com/adyen/how-to-use-visual-studio-dev-tunnels-to-receive-webhooks-on-localhost-6cee1d12a670)
 
 If you use Visual Studio 17.4+, the webhook URL will be the generated URL (i.e. `https://xd1r2txt-5001.euw.devtunnels.ms`).
