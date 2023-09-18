@@ -54,7 +54,7 @@ If you use a tunneling service like [ngrok](ngrok), the webhook URL will be the 
 
 In the Customer Area configure the webhook URL accordingly.
 
-**Note:** when restarting ngrok a new URL is generated, make sure to **update the Webhook URL**.
+> **Note**: when restarting ngrok a new URL is generated, make sure to **update the Webhook URL**.
 
 ### DEV TUNNELS (.NET)
 

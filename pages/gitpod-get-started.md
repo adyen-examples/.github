@@ -18,7 +18,6 @@ Are you running the Adyen sample applications on Gitpod for the first time? Foll
 > **Warning**: In a production environment, use the full fixed URL in your application instead of the asterisk `*`!
 
 
-
 ![Card checkout demo](gitpod-env-variables.png)
 
 ## Update environment variables
