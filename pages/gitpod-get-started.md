@@ -8,21 +8,19 @@ We've set up `gitpod.yml`-files in each of our integration-examples that allows 
 Are you running the Adyen sample applications on Gitpod for the first time? Follow the steps below, you'll only need to do this once.
 
 1. Make sure you have an [Adyen Test Account](https://ca-test.adyen.com/ca/ca/overview/default.shtml) and create the [API keys](https://docs.adyen.com/user-management/how-to-get-the-api-key)
-2. Go to [gitpod environment variables](https://gitpod.io/user/variables)
+2. Go to [Gitpod environment variables](https://gitpod.io/user/variables)
 3. Set the `ADYEN_API_KEY`, `ADYEN_CLIENT_KEY`, `ADYEN_HMAC_KEY` and `ADYEN_MERCHANT_ACCOUNT` environment variables (see below)
     - In the [React sample app](https://github.com/adyen-examples/adyen-react-online-payments), the `ADYEN_CLIENT_KEY` should be `REACT_ADYEN_CLIENT_KEY` instead
     - In the In-person Payments example, please include the terminal `ADYEN_POS_POI_ID` as environment variable
 4. Add `https://*.gitpod.io` as allowed origin in the Customer Area using your [API Credentials](https://ca-test.adyen.com/ca/ca/config/api_credentials_new.shtml) to make sure the UI can load the Drop-in and Components
-5. The URL of the running application on Gitpod should look like: `https://8080-myorg-myrepo-y8ad7pso0w5.ws-eu75.gitpod.io/api/webhooks/notifications/` - *Notice the port-number at the beginning of the URL*
-
-> **Warning**: In a production environment, use the full fixed URL in your application instead of the asterisk `*`!
+5. The URL of the running application on Gitpod should look like: `https://8080-myorg-myrepo-y8ad7pso0w5.ws-eu75.gitpod.io/` - *Notice the port-number at the beginning of the URL*
 
 
 ![Card checkout demo](gitpod-env-variables.png)
 
 ## Update environment variables
 
-Do you need to update the HMAC key or another environment variable and s your application already running in Gitpod?
+Do you need to update the HMAC key or another environment variable? Is your application already running on Gitpod?
 
 1. In the Gitpod terminal, stop the application (`Ctrl + C`)
 2. Set the environment variable in the terminal
