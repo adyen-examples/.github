@@ -5,7 +5,7 @@ Webhooks are HTTP callbacks sent to an endpoint on your server. These webhooks a
 This guide explains how to easily consume and test webhooks that the Adyen platform sends.
 
 
-![Webhooks testing](pages/webhooks-testing-diagram.png)
+![Webhooks testing](webhooks-testing-diagram.png)
 
 ## Prerequisites
 
