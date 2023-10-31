@@ -58,7 +58,8 @@ A list of tools that can help developers.
 
 |                                                                     Tool | Description                                     |
 |-------------------------------------------------------------------------:|:------------------------------------------------|
-| [**Checkout Create**](https://github.com/adyen-examples/checkoutCreate/) | Interactive Drop-in creation and styling tool.  |
+| [**Checkout Create**](https://github.com/adyen-examples/checkoutCreate/) | Interactive Drop-in creation and styling tool. | 
+| [**Adyen Test Cards Chrome extension**](https://chrome.google.com/webstore/detail/adyen-test-cards/icllkfleeahmemjgoibajcmeoehkeoag) | Copy and prefill Adyen test card numbers with a single click. |
 
 ### 🛠️ Community Integration Examples
 * [Pay by Link Ktor Sample](https://github.com/jlengrand/pay-by-link-sample-kotlin)
