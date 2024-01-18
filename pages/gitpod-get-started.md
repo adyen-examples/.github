@@ -12,7 +12,7 @@ Are you running the Adyen sample applications on Gitpod for the first time? Foll
 3. Set the `ADYEN_API_KEY`, `ADYEN_CLIENT_KEY`, `ADYEN_HMAC_KEY` and `ADYEN_MERCHANT_ACCOUNT` environment variables (see below)
     - In the [React sample](https://github.com/adyen-examples/adyen-react-online-payments) app, the `ADYEN_CLIENT_KEY` should be `REACT_ADYEN_CLIENT_KEY` instead
     - In the In-person Payments example, please include the terminal `ADYEN_POS_POI_ID` as environment variable
-    - In the [Adyen for Platforms](https://github.com/adyen-examples/adyen-afp-sample) sample app, please include `BCL_API_KEY` and `LEM_API_KEY` (API keys) as environment variables
+    - In the [Adyen for Platforms](https://github.com/adyen-examples/adyen-afp-sample) sample app, please include `ADYEN_BCL_API_KEY` and `ADYEN_LEM_API_KEY` (API keys) as environment variables
 4. Add `https://*.gitpod.io` as allowed origin in the Customer Area using your [API Credentials](https://ca-test.adyen.com/ca/ca/config/api_credentials_new.shtml) to make sure the UI can load the Drop-in and Components
 5. The URL of the running application on Gitpod should look like: `https://8080-myorg-myrepo-y8ad7pso0w5.ws-eu75.gitpod.io/` - *Notice the port-number at the beginning of the URL*
 
