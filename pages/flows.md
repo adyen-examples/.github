@@ -12,16 +12,20 @@ Why using the Adyen Postman Flows?
 ![Postman flow](postman-flow.png)
 
 
-## First time users
+## First-time users
 
 Are you accessing the Adyen Postman flows for the first time? Checkout the steps required to setup the environment and everything else you need.
 
-* Fork the "Adyen Flows" environment. Keep the forked environment **private** to protect sensitive information like API key, merchant account, etc..
-* Edit the local "Adyen Flows" environment (forked above) to define the settings necessary to perform the API calls
 * Fork the desired flow (for example "Giving")
-* Edit the local flow (forked above) to use the "Adyen Flows" environment. This is necessary to run the flow with your own keys and configuration
-* Define the variables (for example "amount")
+* Fork the relevant Postman environment. For example the "Giving" flow uses `FLOWS Checkout API environment`, fork this Postman environment to create a local (private) copy
+* Important: keep the forked environment **private** to protect sensitive information like API key, merchant account, etc..
+* Edit the local Postman environment (forked above) to define the settings necessary to perform the API calls
+* Edit the local flow (forked above) to use the local Postman environment. This is necessary to run the flow with your own keys and configuration
+* Define the variables (for example "amount", "currency", etc..)
 * Run the flow
+
+Watch the video:
+[![Watch the video](postman-flows-video-thumbnail.png)](https://www.youtube.com/watch?v=H-3bVOG4Nzg)
 
 ## Update local flows 
 
