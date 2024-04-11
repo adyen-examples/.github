@@ -24,7 +24,7 @@ Are you accessing the Adyen Postman flows for the first time? Checkout the steps
 * Define the variables (for example "amount", "currency", etc..)
 * Run the flow
 
-Watch the video:
+Watch our "Learn Adyen API workflows using Postman flows" video:
 [![Watch the video](postman-flows-video-thumbnail.png)](https://www.youtube.com/watch?v=H-3bVOG4Nzg)
 
 ## Update local flows 
