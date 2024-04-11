@@ -29,8 +29,13 @@ Watch our "Learn Adyen API workflows using Postman flows" video:
 
 ## Update local flows 
 
-If you want to edit the local flow (forked above), for example changing the request payloads, you need to fork also the "Adyen Flows" collections.
+If you want to edit the local flow (forked above), for example changing the request payloads, you need to fork also the corresponding "Adyen Flows" collection. For example the "Giving" flow uses `FLOWS Checkout API collection`.
+
+Once customised the requests, make sure you edit the flow to use your local collection (forked above).
+
+## Limitations 
 
 > **Warning**
 Postman forked flows don't support pulling updates. Unlike collections, any modification to the Adyen Flows does not trigger a notification to inform you about the new changes. 
->
+
+For the time being (until the `Pull Changes` feature is available for Postman flows) we suggest to check regularly our [AdyenDev Postman space](https://www.postman.com/adyendev) as well as the [AdyenDev Postman Release Notes](https://github.com/Adyen/adyen-postman/blob/main/adyendev-postman-release-notes.md).
