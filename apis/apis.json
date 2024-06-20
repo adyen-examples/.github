@@ -19,6 +19,7 @@
       "description": "Adyen Checkout API provides a simple and flexible way to initiate and authorise online payments. You can use the same integration for payments made with cards (including 3D Secure), mobile wallets, and various local payment methods.",
       "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
       "humanURL": "https://docs.adyen.com/api-explorer/Checkout/latest/overview",
+      "baseURL": "https://checkout-test.adyen.com/v71",
       "tags": [
         "API",
         "Checkout",
@@ -52,6 +53,7 @@
       "description": "The Adyen Configuration API enables you to create a platform where you can onboard your users as account holders and create balance accounts, cards, and business accounts.",
       "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
       "humanURL": "https://docs.adyen.com/api-explorer/balanceplatform/latest/overview",
+      "baseURL": "https://balanceplatform-api-test.adyen.com/bcl/v2",
       "tags": [
         "API",
         "Platforms",
@@ -85,6 +87,7 @@
       "description": "A set of API endpoints that allow you to store payout details, confirm, or decline a payout.",
       "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
       "humanURL": "https://docs.adyen.com/api-explorer/Payout/latest/overview",
+      "baseURL": "https://pal-test.adyen.com/pal/servlet/Payout/v68",
       "tags": [
         "API",
         "Payouts",
