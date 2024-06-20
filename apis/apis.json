@@ -79,6 +79,39 @@
           "X-github": "Adyen"
         }
       ]
+    },
+    {
+      "name": "Adyen Payout API",
+      "description": "A set of API endpoints that allow you to store payout details, confirm, or decline a payout.",
+      "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
+      "humanURL": "https://docs.adyen.com/api-explorer/Payout/latest/overview",
+      "tags": [
+        "API",
+        "Payouts",
+        "Payments"
+      ],
+      "properties": [
+        {
+          "type": "Documentation",
+          "url": "https://docs.adyen.com/api-explorer/Payout/latest/overview"
+        },
+        {
+          "type": "OpenAPI",
+          "url": "https://raw.githubusercontent.com/Adyen/adyen-openapi/main/json/PayoutService-v68.json"
+        },
+        {
+          "type": "PostmanWorkspace",
+          "url": "https://www.postman.com/adyendev/workspace/adyen-apis/overview"
+        }
+      ],
+      "contact": [
+        {
+          "FN": "Adyen Devs",
+          "url": "https://developers.adyen.com/",
+          "X-twitter": "AdyenDevs",
+          "X-github": "Adyen"
+        }
+      ]
     }
   ],
   "common": [
