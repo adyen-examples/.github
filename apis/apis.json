@@ -1,0 +1,73 @@
+{
+		   "name": "Adyen APIs",
+		   "type": "Index",
+		   "description": "APIs to integrate with the Adyen financial technology platform: global payments, embedded finance, fraud detection and more.",
+		   "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
+		   "tags": [
+		      "API",
+          "Checkout",
+          "Payments",
+          "Banking"
+		   ],
+		   "created": "2024-06-01",
+		   "modified": "2024-06-01",
+		   "url": "https://github.com/adyen-examples/.github",
+		   "specificationVersion": "0.16",
+		   "apis": [
+		      {
+		         "name": "Adyen Checkout API",
+		         "description": "Adyen Checkout API provides a simple and flexible way to initiate and authorise online payments. You can use the same integration for payments made with cards (including 3D Secure), mobile wallets, and various local payment methods.",
+		         "image": "https://github.com/adyen-examples/.github/blob/main/images/logo.png",
+		         "humanURL": "https://docs.adyen.com/api-explorer/Checkout/latest/overview",
+		         "tags": [
+		            "API",
+                "Checkout",
+                "Payments"
+		         ],
+		         "properties": [
+		            {
+		               "type": "Documentation",
+		               "url": "https://docs.adyen.com/api-explorer/Checkout/latest/overview"
+		            },
+		            {
+		               "type": "OpenAPI",
+		               "url": "https://raw.githubusercontent.com/Adyen/adyen-openapi/main/json/CheckoutService-v71.json"
+		            },
+		            {
+		               "type": "PostmanWorkspace",
+		               "url": "https://www.postman.com/adyendev/workspace/adyen-apis/overview"
+		            }               
+		         ],
+		         "contact": [
+		            {
+		               "FN": "Adyen Devs",
+		               "url": "https://developers.adyen.com/",  
+		               "X-twitter": "AdyenDevs",
+		               "X-github": "Adyen"
+		            }
+		         ]
+		      }
+		   ],
+		   "common": [
+		      {
+		         "type": "Signup",
+		         "url": "https://www.adyen.com/contact/sales"
+		      },
+		      {
+		         "type": "Authentication",
+		         "url": "https://docs.adyen.com/development-resources/api-authentication/"
+		      },
+		      {
+		         "type": "Blog",
+		         "url": "https://www.adyen.com/knowledge-hub"
+		      }
+		   ],
+		   "maintainers": [
+		      {
+		         "FN": "Adyen Devs",
+		         "url": "https://developers.adyen.com/",            
+		         "X-twitter": "AdyenDevs",
+		         "X-github": "Adyen"
+		      }
+		   ]
+		}
