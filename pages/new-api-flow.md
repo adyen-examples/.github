@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TB;
-  START[1 New MR in 'openapi' GitLab repo] --> TECH_WRITERS_REVIEW(2aTech Writers review)
+  START[1 New MR in 'openapi' GitLab repo] --> TECH_WRITERS_REVIEW(2a Tech Writers review)
   START[1 New MR in 'openapi' GitLab repo] --> DEVREL_REVIEW(2b DevRel review)
 
  TECH_WRITERS_REVIEW --> MERGE_OPENAPI_MR
